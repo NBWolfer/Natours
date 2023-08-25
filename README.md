@@ -26,6 +26,21 @@ I prioritized user security by hashing and securely storing passwords, minimizin
 ### XSS and NoSQL Injection Mitigation: 
 User input was carefully handled to prevent cross-site scripting (XSS) and NoSQL injection attacks.
 
-### IP Rate Limiting: A proactive approach was taken to thwart malicious behavior by implementing IP-based rate limiting.
+### IP Rate Limiting: 
+A proactive approach was taken to thwart malicious behavior by implementing IP-based rate limiting.
 
-### Route Protection: I have set up the routes according to the user's authority for access using middlewares.
+### Route Protection: 
+I have set up the routes according to the user's authority for access using middlewares.
+
+## Used APIs:
+### Stripe:
+For payment simulation.
+https://stripe.com/docs/api
+
+### Mailtrap:
+For sending mail in development stage.
+https://api-docs.mailtrap.io/
+
+### SendGrid:
+For sending mail in production stage.
+https://docs.sendgrid.com/for-developers/sending-email/api-getting-started
