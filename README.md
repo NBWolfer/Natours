@@ -4,9 +4,9 @@ The purpose of the project is to learn Express-MongoDB, understand general MVC a
 
 The core of the project is an interactive web platform that showcases unreal tours in America. Users can create accounts, explore tours, make purchases, share experiences, and manage their profiles. Additionally, this project includes both learning and security considerations.
 
-##Learning and Technological Components:
+## Learning and Technological Components:
 
-## #Node.js and Express: 
+### Node.js and Express: 
 I embraced the power of Node.js and Express to build a robust web application. Navigating client-server interactions, creating routes, and managing server-side logic became second nature.
 
 ### MVC Architecture: 
