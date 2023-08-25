@@ -2,7 +2,7 @@
 
 The purpose of the project is to learn Express-MongoDB, understand general MVC architecture, and learn how to make a web application more secure. Project has been builded Full-Stack. Also, it contains couple of API services.
 
-The core of the project is an interactive web platform that showcases unreal tours in America. Users can create accounts, explore tours, make purchases, share experiences, and manage their profiles. Additionally, this project includes both learning and security considerations.
+The core of the project is an interactive web platform that showcases unreal tours in USA. Users can create accounts, explore tours, make purchases, share experiences, and manage their profiles. Additionally, this project includes both learning and security considerations.
 
 ## Learning and Technological Components:
 
